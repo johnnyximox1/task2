@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.left_nav { min-height: 600px;
+    border: 1px solid red;
+    width: 30%;
+    float: left;
+}
+.header { min-height: 149px;
+    border: 1px solid black;
+    width:70%;
+    margin-left: 30%;
+}
+.content { min-height: 449px;
+    border: 1px solid blue;
+    width: 70% ;
+    margin-left: 30% ;
+}
+.footer { min-height: 150px;
+    border: 1px solid green;
+    width:100%;
+}
+.logo { min-height:150px; 
+    background-color:  salmon;
+    width:85%;
+    margin: 25px;
+    margin-top: 10px;
+    color: white;
+    text-align: center;
+    font-size: 70px ;
+}
+.links_left { min-height: 350px;
+    background-color: aquamarine;
+    width: 85%;
+    margin: 25px;
+    margin-bottom: 10px;
+    color: white;
+    text-align: center;
+    font-size: 70px ;
+}
+.header_content{ min-height: 100px;
+    background-color: darkgreen;
+    width: 80%;
+    margin: 25px auto;
+    color: white;
+    text-align: center;
+    font-size: 70px ;
+}
+.main_content{ min-height: 400px;
+    width: 70% ;
+    background-color: deeppink;
+    float: left;
+    margin: 20px;
+    color: white;
+    text-align: center;
+    font-size: 70px ;
+}
+.right_nav {min-height:350px;
+    width: 20%;
+    background-color: fuchsia;
+    float:right;
+    margin-top: 65px;
+    color: white;
+    text-align: center;
+    font-size: 60px ;
+}
+.footer_content{
+    min-height: 100px;
+    width: 60%;
+    background-color: cornflowerblue;
+    margin: auto;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-size: 70px ;
+}
